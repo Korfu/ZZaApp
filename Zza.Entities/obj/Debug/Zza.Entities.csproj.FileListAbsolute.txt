@@ -1,0 +1,6 @@
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.pdb
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csprojAssemblyReference.cache
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csproj.CoreCompileInputs.cache
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.pdb

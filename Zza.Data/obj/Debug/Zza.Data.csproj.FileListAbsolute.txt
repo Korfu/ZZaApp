@@ -1,0 +1,14 @@
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.pdb
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\konrad.korf\Downloads\2-wcf-jumpstart-exercise-files\after\ZzaApp\Zza.Data\obj\Debug\Zza.Data.pdb
